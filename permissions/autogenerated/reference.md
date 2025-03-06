@@ -2,7 +2,6 @@
 
 Default permissions for the plugin
 
-- `allow-ping`
 
 ## Permission Table
 
@@ -12,30 +11,4 @@ Default permissions for the plugin
 <th>Description</th>
 </tr>
 
-
-<tr>
-<td>
-
-`android-fix-font-size:allow-ping`
-
-</td>
-<td>
-
-Enables the ping command without any pre-configured scope.
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-`android-fix-font-size:deny-ping`
-
-</td>
-<td>
-
-Denies the ping command without any pre-configured scope.
-
-</td>
-</tr>
 </table>
